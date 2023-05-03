@@ -6,3 +6,7 @@
 
 `\c database_name` connect with database
 
+-> You are now connected to database "database_name" as user "user_name".
+
+database_name-#
+
