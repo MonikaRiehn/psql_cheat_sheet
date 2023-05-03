@@ -6,5 +6,3 @@
 
 `\c database_name` connect with database
 
-`CREATE DATABASE database_name;` 
-
