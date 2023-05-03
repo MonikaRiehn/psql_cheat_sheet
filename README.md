@@ -1,4 +1,6 @@
-# psql_cheat_sheet
+# psql Cheat Sheet
+
+## Running postgreSQL queries from the Linux command line
 
 `psql -U postgres postgres` or `psql -d database_name -U user_name` connect to database
 
